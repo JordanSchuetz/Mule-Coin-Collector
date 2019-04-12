@@ -1,0 +1,17 @@
+{
+  "name": "mulegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mulegame.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "file-system": "^2.2.2",
+    "phaser": "^3.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
